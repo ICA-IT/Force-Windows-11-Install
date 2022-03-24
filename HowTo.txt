@@ -1,0 +1,22 @@
+https://youtu.be/S7oRJwTzOn8
+
+This video will show you how to install Windows 11 on unsupported hardware.  This does not just include fresh installs but can be upgraded from Windows 10 as well. I upgrade a system that fails all the controversial hardware requirements. It doesn't support TPM, UEFI, or have a CPU on the approved list and it runs great. 
+
+Please Like this video and Subscribe to my channel
+https://www.youtube.com/cybercpu?sub_...
+
+My shirt from the video
+https://www.cybercputech.com/productd...
+
+Notes From Video
+Force-Windows-11-Install - https://github.com/JosephM101/Force-W...
+Windows Terminal - https://github.com/microsoft/terminal...
+
+Enable scripting
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted
+
+fix windows security
+get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage
+
+#Windows11 #unsupported #Tech
+
